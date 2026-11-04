@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra Fútbol: Español - Armenio",
+  "description": "Интерактивная игра Pasapalabra на тему футбола (испанский и армянский языки) с таймером на 20 минут, кликабельным переводом и полным прохождением всех 27 букв.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
